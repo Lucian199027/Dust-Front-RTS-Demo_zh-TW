@@ -9,7 +9,6 @@ Dust Front RTS Demo個人繁中化
 3.	使用方式:將zip檔解壓縮後, 把resources.assets檔放到Steam路徑下的\steamapps\common\Dust Front RTS Demo\Dust Front RTS_Data\中取代原檔案(建議先將原本的resources.assets改個檔名當備份，以備不時之需)
     如果啟動遊戲碰到Steam顯示檔案受損, 就把下載回來的resources.assets檔再放到同樣路徑下取代原本檔案即可。(Steam跳錯後會主動載回原本的resources.assets檔)
 
-4.	Sha256:872dae189eaf33d9de7b5e462948acaaa960df266168843fbd4a6ea5a5a4de19
-	  (若對下載的檔案不放心，可將下載的檔案上傳至網路上各個免費的Sha256線上工具網比對Sha256雜湊值)
+4.	每次更新後都會提供對應的Sha256以供比對，若對下載的檔案不放心，可將下載的檔案上傳至網路上各個免費的Sha256線上工具網比對其Sha256雜湊值。
 
 希望你會喜歡我的簡略翻譯成果，感謝你的青睞。 
