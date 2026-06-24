@@ -14,3 +14,8 @@ Dust Front RTS Demo個人繁中化
 希望你會喜歡我的簡略翻譯成果，感謝你的青睞。 
 
 ![demo](./Demo1.jpg)
+![demo](./Demo2.jpg)
+![demo](./Demo3.jpg)
+![demo](./Demo4.jpg)
+![demo](./Demo5.jpg)
+![demo](./Demo6.jpg)
